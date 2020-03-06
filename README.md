@@ -8,7 +8,9 @@ Coronavirus - 2019-nCoV stats datasets for Italy and China, labels in English
   * region_it.csv: positive number by region by date
 
 ## Stats China
-* Source: https://github.com/canghailan/Wuhan-2019-nCoV/blob/master/Wuhan-2019-nCoV.csv
+* Source: 
+  * https://github.com/canghailan/Wuhan-2019-nCoV/blob/master/Wuhan-2019-nCoV.csv
+  * https://github.com/JackieZheng/2019-nCoV/blob/master/Excel/data.xlsx (for nationwide stats)
 * 4 files:
   * nationwide_cn.csv: nationwide stats by date
   * wuhan_cn.csv: Wuhan City stats by date (Wuhan was the epicenter of the initial outbreak and the capital city of Hubei province)
