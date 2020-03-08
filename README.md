@@ -5,7 +5,7 @@ Coronavirus - 2019-nCoV stats datasets for Italy and China, labels in English
 * Source: [Protezione civile](http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus)
 * 2 files:
   * nationwide_it.csv: nationwide stats by date
-  * region_it.csv: positive number by region by date
+  * region_it.csv: positive, dead, cured numbers by region by date
 
 ## Stats China
 * Source: 

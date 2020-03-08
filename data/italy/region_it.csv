@@ -1,337 +1,358 @@
-date,region,positive
-2020-03-07,Lombardia,2742.0
-2020-03-07,Emilia Romagna,937.0
-2020-03-07,Veneto,505.0
-2020-03-07,Piemonte,202.0
-2020-03-07,Marche,201.0
-2020-03-07,Toscana,112.0
-2020-03-07,Lazio,72.0
-2020-03-07,Campania,61.0
-2020-03-07,Liguria,42.0
-2020-03-07,Friuli V.G.,39.0
-2020-03-07,Sicilia,33.0
-2020-03-07,Umbria,24.0
-2020-03-07,Puglia,23.0
-2020-03-07,Molise,14.0
-2020-03-07,Trento,14.0
-2020-03-07,Abruzzo,11.0
-2020-03-07,Bolzano,9.0
-2020-03-07,Valle d'Aosta,8.0
-2020-03-07,Sardegna,5.0
-2020-03-07,Calabria,4.0
-2020-03-07,Basilicata,3.0
-2020-03-06,Lombardia,2008.0
-2020-03-06,Emilia Romagna,816.0
-2020-03-06,Veneto,454.0
-2020-03-06,Marche,155.0
-2020-03-06,Piemonte,139.0
-2020-03-06,Toscana,78.0
-2020-03-06,Campania,57.0
-2020-03-06,Lazio,50.0
-2020-03-06,Friuli V.G.,28.0
-2020-03-06,Liguria,24.0
-2020-03-06,Sicilia,22.0
-2020-03-06,Umbria,16.0
-2020-03-06,Puglia,15.0
-2020-03-06,Molise,12.0
-2020-03-06,Trento,10.0
-2020-03-06,Abruzzo,9.0
-2020-03-06,Valle d'Aosta,7.0
-2020-03-06,Sardegna,5.0
-2020-03-06,Calabria,4.0
-2020-03-06,Bolzano,4.0
-2020-03-06,Basilicata,3.0
-2020-03-05,Lombardia,2251.0
-2020-03-05,Emilia Romagna,698.0
-2020-03-05,Veneto,407.0
-2020-03-05,Marche,124.0
-2020-03-05,Piemonte,108.0
-2020-03-05,Toscana,61.0
-2020-03-05,Campania,45.0
-2020-03-05,Lazio,44.0
-2020-03-05,Liguria,28.0
-2020-03-05,Friuli V.G.,21.0
-2020-03-05,Sicilia,18.0
-2020-03-05,Puglia,14.0
-2020-03-05,Umbria,9.0
-2020-03-05,Abruzzo,8.0
-2020-03-05,Trento,7.0
-2020-03-05,Molise,7.0
-2020-03-05,Valle d'Aosta,2.0
-2020-03-05,Calabria,2.0
-2020-03-05,Sardegna,2.0
-2020-03-05,Basilicata,1.0
-2020-03-05,Bolzano,1.0
-2020-03-04,Lombardia,1820.0
-2020-03-04,Emilia Romagna,544.0
-2020-03-04,Veneto,360.0
-2020-03-04,Marche,84.0
-2020-03-04,Piemonte,82.0
-2020-03-04,Toscana,38.0
-2020-03-04,Campania,31.0
-2020-03-04,Lazio,30.0
-2020-03-04,Liguria,26.0
-2020-03-04,Friuli V.G.,18.0
-2020-03-04,Sicilia,18.0
-2020-03-04,Puglia,9.0
-2020-03-04,Umbria,9.0
-2020-03-04,Abruzzo,7.0
-2020-03-04,Trento,5.0
-2020-03-04,Molise,3.0
-2020-03-04,Sardegna,2.0
-2020-03-04,Basilicata,1.0
-2020-03-04,Calabria,1.0
-2020-03-04,Bolzano,1.0
-2020-03-04,Valle d'Aosta,0.0
-2020-03-03,Lombardia,1520.0
-2020-03-03,Emilia Romagna,420.0
-2020-03-03,Veneto,307.0
-2020-03-03,Marche,61.0
-2020-03-03,Piemonte,56.0
-2020-03-03,Campania,30.0
-2020-03-03,Liguria,24.0
-2020-03-03,Toscana,19.0
-2020-03-03,Lazio,14.0
-2020-03-03,Friuli V.G.,13.0
-2020-03-03,Umbria,8.0
-2020-03-03,Sicilia,7.0
-2020-03-03,Puglia,6.0
-2020-03-03,Abruzzo,6.0
-2020-03-03,Trento,4.0
-2020-03-03,Molise,3.0
-2020-03-03,Sardegna,1.0
-2020-03-03,Basilicata,1.0
-2020-03-03,Calabria,1.0
-2020-03-03,Bolzano,1.0
-2020-03-03,Valle d'Aosta,
-2020-03-02,Lombardia,1254.0
-2020-03-02,Emilia Romagna,335.0
-2020-03-02,Veneto,273.0
-2020-03-02,Piemonte,51.0
-2020-03-02,Marche,35.0
-2020-03-02,Liguria,22.0
-2020-03-02,Campania,17.0
-2020-03-02,Toscana,13.0
-2020-03-02,Friuli V.G.,9.0
-2020-03-02,Lazio,7.0
-2020-03-02,Sicilia,7.0
-2020-03-02,Abruzzo,5.0
-2020-03-02,Puglia,4.0
-2020-03-02,Umbria,2.0
-2020-03-02,Calabria,1.0
-2020-03-02,Bolzano,1.0
-2020-03-02,Trento,
-2020-03-02,Molise,
-2020-03-02,Sardegna,
-2020-03-02,Basilicata,
-2020-03-02,Valle d'Aosta,
-2020-03-01,Lombardia,984.0
-2020-03-01,Emilia Romagna,285.0
-2020-03-01,Veneto,263.0
-2020-03-01,Piemonte,49.0
-2020-03-01,Marche,25.0
-2020-03-01,Liguria,25.0
-2020-03-01,Campania,17.0
-2020-03-01,Toscana,13.0
-2020-03-01,Sicilia,9.0
-2020-03-01,Lazio,6.0
-2020-03-01,Friuli V.G.,6.0
-2020-03-01,Abruzzo,5.0
-2020-03-01,Puglia,3.0
-2020-03-01,Umbria,2.0
-2020-03-01,Bolzano,1.0
-2020-03-01,Bolzano,1.0
-2020-03-01,Trento,
-2020-03-01,Molise,
-2020-03-01,Sardegna,
-2020-03-01,Basilicata,
-2020-03-01,Valle d'Aosta,
-2020-02-29,Lombardia,615.0
-2020-02-29,Emilia Romagna,217.0
-2020-02-29,Veneto,191.0
-2020-02-29,Liguria,42.0
-2020-02-29,Campania,13.0
-2020-02-29,Piemonte,11.0
-2020-02-29,Marche,11.0
-2020-02-29,Toscana,11.0
-2020-02-29,Lazio,6.0
-2020-02-29,Sicilia,4.0
-2020-02-29,Puglia,3.0
-2020-02-29,Abruzzo,2.0
-2020-02-29,Calabria,1.0
-2020-02-29,Bolzano,1.0
-2020-02-29,Friuli V.G.,
-2020-02-29,Umbria,
-2020-02-29,Trento,
-2020-02-29,Molise,
-2020-02-29,Sardegna,
-2020-02-29,Basilicata,
-2020-02-29,Valle d'Aosta,
-2020-02-28,Lombardia,531.0
-2020-02-28,Veneto,151.0
-2020-02-28,Emilia Romagna,145.0
-2020-02-28,Liguria,19.0
-2020-02-28,Piemonte,11.0
-2020-02-28,Toscana,8.0
-2020-02-28,Marche,6.0
-2020-02-28,Campania,4.0
-2020-02-28,Sicilia,4.0
-2020-02-28,Lazio,3.0
-2020-02-28,Puglia,3.0
-2020-02-28,Abruzzo,1.0
-2020-02-28,Calabria,1.0
-2020-02-28,Bolzano,1.0
-2020-02-28,Friuli V.G.,
-2020-02-28,Umbria,
-2020-02-28,Trento,
-2020-02-28,Molise,
-2020-02-28,Sardegna,
-2020-02-28,Basilicata,
-2020-02-28,Valle d'Aosta,
-2020-02-27,Lombardia,403.0
-2020-02-27,Veneto,111.0
-2020-02-27,Emilia Romagna,97.0
-2020-02-27,Liguria,19.0
-2020-02-27,Sicilia,4.0
-2020-02-27,Marche,3.0
-2020-02-27,Campania,3.0
-2020-02-27,Lazio,3.0
-2020-02-27,Piemonte,2.0
-2020-02-27,Toscana,2.0
-2020-02-27,Puglia,1.0
-2020-02-27,Abruzzo,1.0
-2020-02-27,Bolzano,1.0
-2020-02-27,Friuli V.G.,
-2020-02-27,Umbria,
-2020-02-27,Trento,
-2020-02-27,Molise,
-2020-02-27,Sardegna,
-2020-02-27,Basilicata,
-2020-02-27,Calabria,
-2020-02-27,Valle d'Aosta,
-2020-02-26,Lombardia,258.0
-2020-02-26,Veneto,71.0
-2020-02-26,Emilia Romagna,47.0
-2020-02-26,Liguria,11.0
-2020-02-26,Piemonte,3.0
-2020-02-26,Lazio,3.0
-2020-02-26,Sicilia,3.0
-2020-02-26,Toscana,2.0
-2020-02-26,Marche,1.0
-2020-02-26,Bolzano,1.0
-2020-02-26,Campania,
-2020-02-26,Friuli V.G.,
-2020-02-26,Puglia,
-2020-02-26,Umbria,
-2020-02-26,Abruzzo,
-2020-02-26,Trento,
-2020-02-26,Molise,
-2020-02-26,Sardegna,
-2020-02-26,Basilicata,
-2020-02-26,Calabria,
-2020-02-26,Valle d'Aosta,
-2020-02-25,Lombardia,240.0
-2020-02-25,Veneto,43.0
-2020-02-25,Emilia Romagna,26.0
-2020-02-25,Piemonte,3.0
-2020-02-25,Lazio,3.0
-2020-02-25,Sicilia,3.0
-2020-02-25,Toscana,2.0
-2020-02-25,Liguria,1.0
-2020-02-25,Bolzano,1.0
-2020-02-25,Marche,
-2020-02-25,Campania,
-2020-02-25,Friuli V.G.,
-2020-02-25,Puglia,
-2020-02-25,Umbria,
-2020-02-25,Abruzzo,
-2020-02-25,Trento,
-2020-02-25,Molise,
-2020-02-25,Sardegna,
-2020-02-25,Basilicata,
-2020-02-25,Calabria,
-2020-02-25,Valle d'Aosta,
-2020-02-24,Lombardia,172.0
-2020-02-24,Veneto,33.0
-2020-02-24,Emilia Romagna,18.0
-2020-02-24,Piemonte,3.0
-2020-02-24,Lazio,3.0
-2020-02-24,Marche,
-2020-02-24,Campania,
-2020-02-24,Liguria,
-2020-02-24,Toscana,
-2020-02-24,Friuli V.G.,
-2020-02-24,Sicilia,
-2020-02-24,Puglia,
-2020-02-24,Umbria,
-2020-02-24,Abruzzo,
-2020-02-24,Trento,
-2020-02-24,Molise,
-2020-02-24,Sardegna,
-2020-02-24,Basilicata,
-2020-02-24,Calabria,
-2020-02-24,Valle d'Aosta,
-2020-02-24,Bolzano,
-2020-02-23,Lombardia,112.0
-2020-02-23,Veneto,22.0
-2020-02-23,Emilia Romagna,9.0
-2020-02-23,Piemonte,6.0
-2020-02-23,Lazio,3.0
-2020-02-23,Marche,
-2020-02-23,Campania,
-2020-02-23,Liguria,
-2020-02-23,Toscana,
-2020-02-23,Friuli V.G.,
-2020-02-23,Sicilia,
-2020-02-23,Puglia,
-2020-02-23,Umbria,
-2020-02-23,Abruzzo,
-2020-02-23,Trento,
-2020-02-23,Molise,
-2020-02-23,Sardegna,
-2020-02-23,Basilicata,
-2020-02-23,Calabria,
-2020-02-23,Valle d'Aosta,
-2020-02-23,Bolzano,
-2020-02-22,Lombardia,54.0
-2020-02-22,Veneto,17.0
-2020-02-22,Emilia Romagna,2.0
-2020-02-22,Lazio,2.0
-2020-02-22,Piemonte,1.0
-2020-02-22,Marche,
-2020-02-22,Campania,
-2020-02-22,Liguria,
-2020-02-22,Toscana,
-2020-02-22,Friuli V.G.,
-2020-02-22,Sicilia,
-2020-02-22,Puglia,
-2020-02-22,Umbria,
-2020-02-22,Abruzzo,
-2020-02-22,Trento,
-2020-02-22,Molise,
-2020-02-22,Sardegna,
-2020-02-22,Basilicata,
-2020-02-22,Calabria,
-2020-02-22,Valle d'Aosta,
-2020-02-22,Bolzano,
-2020-02-21,Lombardia,14.0
-2020-02-21,Lazio,3.0
-2020-02-21,Veneto,2.0
-2020-02-21,Emilia Romagna,
-2020-02-21,Piemonte,
-2020-02-21,Marche,
-2020-02-21,Campania,
-2020-02-21,Liguria,
-2020-02-21,Toscana,
-2020-02-21,Friuli V.G.,
-2020-02-21,Sicilia,
-2020-02-21,Puglia,
-2020-02-21,Umbria,
-2020-02-21,Abruzzo,
-2020-02-21,Trento,
-2020-02-21,Molise,
-2020-02-21,Sardegna,
-2020-02-21,Basilicata,
-2020-02-21,Calabria,
-2020-02-21,Valle d'Aosta,
-2020-02-21,Bolzano,
+date,region,positive,dead,cured
+2020-03-08,Lombardia ,3372.0,267.0,550.0
+2020-03-08,Emilia Romagna ,1097.0,56.0,27.0
+2020-03-08,Veneto ,623.0,18.0,29.0
+2020-03-08,Piemonte ,355.0,5.0,
+2020-03-08,Marche ,265.0,7.0,
+2020-03-08,Toscana ,165.0,,1.0
+2020-03-08,Campania ,100.0,,1.0
+2020-03-08,Lazio ,81.0,3.0,3.0
+2020-03-08,Liguria ,67.0,6.0,5.0
+2020-03-08,Friuli V.G. ,53.0,1.0,3.0
+2020-03-08,Sicilia ,51.0,,2.0
+2020-03-08,Puglia ,36.0,3.0,1.0
+2020-03-08,Umbria ,26.0,,
+2020-03-08,Trento ,23.0,,
+2020-03-08,Abruzzo ,17.0,,
+2020-03-08,Molise ,14.0,,
+2020-03-08,Sardegna ,11.0,,
+2020-03-08,Bolzano ,9.0,,
+2020-03-08,Valle d'Aosta ,9.0,,
+2020-03-08,Calabria ,9.0,,
+2020-03-08,Basilicata ,4.0,,
+2020-03-07,Lombardia ,2742.0,154.0,524.0
+2020-03-07,Emilia Romagna ,937.0,48.0,25.0
+2020-03-07,Veneto ,505.0,13.0,25.0
+2020-03-07,Piemonte ,202.0,5.0,
+2020-03-07,Marche ,201.0,6.0,
+2020-03-07,Toscana ,112.0,,1.0
+2020-03-07,Lazio ,72.0,1.0,3.0
+2020-03-07,Campania ,61.0,,
+2020-03-07,Liguria ,42.0,4.0,5.0
+2020-03-07,Friuli V.G. ,39.0,,3.0
+2020-03-07,Sicilia ,33.0,,2.0
+2020-03-07,Umbria ,24.0,,
+2020-03-07,Puglia ,23.0,2.0,1.0
+2020-03-07,Molise ,14.0,,
+2020-03-07,Trento ,14.0,,
+2020-03-07,Abruzzo ,11.0,,
+2020-03-07,Bolzano ,9.0,,
+2020-03-07,Valle d'Aosta ,8.0,,
+2020-03-07,Sardegna ,5.0,,
+2020-03-07,Calabria ,4.0,,
+2020-03-07,Basilicata ,3.0,,
+2020-03-06,Lombardia ,2008.0,135.0,469.0
+2020-03-06,Emilia Romagna ,816.0,37.0,17.0
+2020-03-06,Veneto ,454.0,12.0,22.0
+2020-03-06,Marche ,155.0,4.0,
+2020-03-06,Piemonte ,139.0,4.0,
+2020-03-06,Toscana ,78.0,,1.0
+2020-03-06,Campania ,57.0,,
+2020-03-06,Lazio ,50.0,1.0,3.0
+2020-03-06,Friuli V.G. ,28.0,,3.0
+2020-03-06,Liguria ,24.0,3.0,5.0
+2020-03-06,Sicilia ,22.0,,2.0
+2020-03-06,Umbria ,16.0,,
+2020-03-06,Puglia ,15.0,1.0,1.0
+2020-03-06,Molise ,12.0,,
+2020-03-06,Trento ,10.0,,
+2020-03-06,Abruzzo ,9.0,,
+2020-03-06,Valle d'Aosta ,7.0,,
+2020-03-06,Sardegna ,5.0,,
+2020-03-06,Calabria ,4.0,,
+2020-03-06,Bolzano ,4.0,,
+2020-03-06,Basilicata ,3.0,,
+2020-03-05,Lombardia ,2251.0,98.0,376.0
+2020-03-05,Emilia Romagna ,698.0,30.0,10.0
+2020-03-05,Veneto ,407.0,10.0,17.0
+2020-03-05,Marche ,124.0,4.0,
+2020-03-05,Piemonte ,108.0,2.0,
+2020-03-05,Toscana ,61.0,,1.0
+2020-03-05,Campania ,45.0,,
+2020-03-05,Lazio ,44.0,,3.0
+2020-03-05,Liguria ,28.0,3.0,4.0
+2020-03-05,Friuli V.G. ,21.0,,
+2020-03-05,Sicilia ,18.0,,2.0
+2020-03-05,Puglia ,14.0,1.0,1.0
+2020-03-05,Umbria ,9.0,,
+2020-03-05,Abruzzo ,8.0,,
+2020-03-05,Trento ,7.0,,
+2020-03-05,Molise ,7.0,,
+2020-03-05,Valle d'Aosta ,2.0,,
+2020-03-05,Calabria ,2.0,,
+2020-03-05,Sardegna ,2.0,,
+2020-03-05,Basilicata ,1.0,,
+2020-03-05,Bolzano ,1.0,,
+2020-03-04,Lombardia ,1497.0,73.0,250.0
+2020-03-04,Emilia Romagna ,516.0,22.0,6.0
+2020-03-04,Veneto ,345.0,6.0,9.0
+2020-03-04,Piemonte ,82.0,,
+2020-03-04,Marche ,80.0,4.0,
+2020-03-04,Toscana ,37.0,,1.0
+2020-03-04,Campania ,31.0,,
+2020-03-04,Lazio ,27.0,,3.0
+2020-03-04,Liguria ,21.0,1.0,4.0
+2020-03-04,Friuli V.G. ,18.0,,
+2020-03-04,Sicilia ,16.0,,2.0
+2020-03-04,Umbria ,9.0,,
+2020-03-04,Puglia ,7.0,1.0,1.0
+2020-03-04,Abruzzo ,7.0,,
+2020-03-04,Trento ,5.0,,
+2020-03-04,Molise ,3.0,,
+2020-03-04,Sardegna ,2.0,,
+2020-03-04,Bolzano ,1.0,,
+2020-03-04,Calabria ,1.0,,
+2020-03-04,Basilicata ,1.0,,
+2020-03-04,Valle d'Aosta ,0.0,,
+2020-03-03,Lombardia ,1326.0,55.0,139.0
+2020-03-03,Emilia Romagna ,398.0,18.0,4.0
+2020-03-03,Veneto ,297.0,3.0,7.0
+2020-03-03,Marche ,59.0,2.0,
+2020-03-03,Piemonte ,56.0,,
+2020-03-03,Campania ,30.0,,
+2020-03-03,Liguria ,19.0,1.0,4.0
+2020-03-03,Toscana ,18.0,,1.0
+2020-03-03,Friuli V.G. ,13.0,,
+2020-03-03,Lazio ,11.0,,3.0
+2020-03-03,Umbria ,8.0,,
+2020-03-03,Puglia ,6.0,,
+2020-03-03,Abruzzo ,6.0,,
+2020-03-03,Sicilia ,5.0,,2.0
+2020-03-03,Trento ,4.0,,
+2020-03-03,Molise ,3.0,,
+2020-03-03,Bolzano ,1.0,,
+2020-03-03,Calabria ,1.0,,
+2020-03-03,Sardegna ,1.0,,
+2020-03-03,Basilicata ,1.0,,
+2020-03-03,Valle d'Aosta ,0.0,,
+2020-03-02,Lombardia ,1077.0,38.0,139.0
+2020-03-02,Emilia Romagna ,324.0,11.0,
+2020-03-02,Veneto ,271.0,2.0,
+2020-03-02,Piemonte ,51.0,,
+2020-03-02,Marche ,34.0,1.0,
+2020-03-02,Liguria ,18.0,,4.0
+2020-03-02,Campania ,17.0,,
+2020-03-02,Toscana ,12.0,,1.0
+2020-03-02,Friuli V.G. ,9.0,,
+2020-03-02,Sicilia ,5.0,,2.0
+2020-03-02,Abruzzo ,5.0,,
+2020-03-02,Lazio ,4.0,,3.0
+2020-03-02,Puglia ,4.0,,
+2020-03-02,Umbria ,2.0,,
+2020-03-02,Bolzano ,1.0,,
+2020-03-02,Calabria ,1.0,,
+2020-03-02,Sardegna ,0.0,,
+2020-03-02,Valle d'Aosta ,0.0,,
+2020-03-02,Trento ,0.0,,
+2020-03-02,Molise ,0.0,,
+2020-03-02,Basilicata ,0.0,,
+2020-03-01,Lombardia,984.0,25.0,73.0
+2020-03-01,Emilia Romagna,285.0,7.0,8.0
+2020-03-01,Veneto,263.0,2.0,2.0
+2020-03-01,Piemonte,49.0,,
+2020-03-01,Marche,25.0,,
+2020-03-01,Liguria,25.0,,
+2020-03-01,Campania,17.0,,
+2020-03-01,Toscana,13.0,,
+2020-03-01,Sicilia,9.0,,
+2020-03-01,Lazio,6.0,,
+2020-03-01,Friuli V.G.,6.0,,
+2020-03-01,Abruzzo,5.0,,
+2020-03-01,Puglia,3.0,,
+2020-03-01,Umbria,2.0,,
+2020-03-01,Bolzano,1.0,,
+2020-03-01,Bolzano,1.0,,
+2020-03-01,Trento,,,
+2020-03-01,Molise,,,
+2020-03-01,Sardegna,,,
+2020-03-01,Basilicata,,,
+2020-03-01,Valle d'Aosta,,,
+2020-02-29,Lombardia,615.0,24.0,40.0
+2020-02-29,Emilia Romagna,217.0,3.0,7.0
+2020-02-29,Veneto,191.0,2.0,1.0
+2020-02-29,Liguria,42.0,,
+2020-02-29,Campania,13.0,,
+2020-02-29,Piemonte,11.0,,
+2020-02-29,Marche,11.0,,
+2020-02-29,Toscana,11.0,,
+2020-02-29,Lazio,6.0,,2.0
+2020-02-29,Sicilia,4.0,,
+2020-02-29,Puglia,3.0,,
+2020-02-29,Abruzzo,2.0,,
+2020-02-29,Calabria,1.0,,
+2020-02-29,Bolzano,1.0,,
+2020-02-29,Friuli V.G.,,,
+2020-02-29,Umbria,,,
+2020-02-29,Trento,,,
+2020-02-29,Molise,,,
+2020-02-29,Sardegna,,,
+2020-02-29,Basilicata,,,
+2020-02-29,Valle d'Aosta,,,
+2020-02-28,Lombardia,531.0,18.0,39.0
+2020-02-28,Veneto,151.0,2.0,5.0
+2020-02-28,Emilia Romagna,145.0,1.0,
+2020-02-28,Liguria,19.0,,
+2020-02-28,Piemonte,11.0,,
+2020-02-28,Toscana,8.0,,
+2020-02-28,Marche,6.0,,
+2020-02-28,Campania,4.0,,
+2020-02-28,Sicilia,4.0,,
+2020-02-28,Lazio,3.0,,2.0
+2020-02-28,Puglia,3.0,,
+2020-02-28,Abruzzo,1.0,,
+2020-02-28,Calabria,1.0,,
+2020-02-28,Bolzano,1.0,,
+2020-02-28,Friuli V.G.,,,
+2020-02-28,Umbria,,,
+2020-02-28,Trento,,,
+2020-02-28,Molise,,,
+2020-02-28,Sardegna,,,
+2020-02-28,Basilicata,,,
+2020-02-28,Valle d'Aosta,,,
+2020-02-27,Lombardia,403.0,14.0,40.0
+2020-02-27,Veneto,111.0,2.0,3.0
+2020-02-27,Emilia Romagna,97.0,1.0,
+2020-02-27,Liguria,19.0,,
+2020-02-27,Sicilia,4.0,,
+2020-02-27,Marche,3.0,,
+2020-02-27,Campania,3.0,,
+2020-02-27,Lazio,3.0,,2.0
+2020-02-27,Piemonte,2.0,,
+2020-02-27,Toscana,2.0,,
+2020-02-27,Puglia,1.0,,
+2020-02-27,Abruzzo,1.0,,
+2020-02-27,Bolzano,1.0,,
+2020-02-27,Friuli V.G.,,,
+2020-02-27,Umbria,,,
+2020-02-27,Trento,,,
+2020-02-27,Molise,,,
+2020-02-27,Sardegna,,,
+2020-02-27,Basilicata,,,
+2020-02-27,Calabria,,,
+2020-02-27,Valle d'Aosta,,,
+2020-02-26,Lombardia,258.0,7.0,2.0
+2020-02-26,Veneto,71.0,2.0,
+2020-02-26,Emilia Romagna,47.0,1.0,
+2020-02-26,Liguria,11.0,,
+2020-02-26,Piemonte,3.0,,
+2020-02-26,Lazio,3.0,,1.0
+2020-02-26,Sicilia,3.0,,
+2020-02-26,Toscana,2.0,,
+2020-02-26,Marche,1.0,,
+2020-02-26,Bolzano,1.0,,
+2020-02-26,Campania,,,
+2020-02-26,Friuli V.G.,,,
+2020-02-26,Puglia,,,
+2020-02-26,Umbria,,,
+2020-02-26,Abruzzo,,,
+2020-02-26,Trento,,,
+2020-02-26,Molise,,,
+2020-02-26,Sardegna,,,
+2020-02-26,Basilicata,,,
+2020-02-26,Calabria,,,
+2020-02-26,Valle d'Aosta,,,
+2020-02-25,Lombardia,240.0,7.0,1.0
+2020-02-25,Veneto,43.0,2.0,
+2020-02-25,Emilia Romagna,26.0,1.0,
+2020-02-25,Piemonte,3.0,,
+2020-02-25,Lazio,3.0,,
+2020-02-25,Sicilia,3.0,,
+2020-02-25,Toscana,2.0,,
+2020-02-25,Liguria,1.0,,
+2020-02-25,Bolzano,1.0,,
+2020-02-25,Marche,,,
+2020-02-25,Campania,,,
+2020-02-25,Friuli V.G.,,,
+2020-02-25,Puglia,,,
+2020-02-25,Umbria,,,
+2020-02-25,Abruzzo,,,
+2020-02-25,Trento,,,
+2020-02-25,Molise,,,
+2020-02-25,Sardegna,,,
+2020-02-25,Basilicata,,,
+2020-02-25,Calabria,,,
+2020-02-25,Valle d'Aosta,,,
+2020-02-24,Lombardia,172.0,4.0,1.0
+2020-02-24,Veneto,33.0,2.0,
+2020-02-24,Emilia Romagna,18.0,,
+2020-02-24,Piemonte,3.0,,
+2020-02-24,Lazio,3.0,,
+2020-02-24,Marche,,,
+2020-02-24,Campania,,,
+2020-02-24,Liguria,,,
+2020-02-24,Toscana,,,
+2020-02-24,Friuli V.G.,,,
+2020-02-24,Sicilia,,,
+2020-02-24,Puglia,,,
+2020-02-24,Umbria,,,
+2020-02-24,Abruzzo,,,
+2020-02-24,Trento,,,
+2020-02-24,Molise,,,
+2020-02-24,Sardegna,,,
+2020-02-24,Basilicata,,,
+2020-02-24,Calabria,,,
+2020-02-24,Valle d'Aosta,,,
+2020-02-24,Bolzano,,,
+2020-02-23,Lombardia,112.0,,
+2020-02-23,Veneto,22.0,,
+2020-02-23,Emilia Romagna,9.0,,
+2020-02-23,Piemonte,6.0,,
+2020-02-23,Lazio,3.0,,
+2020-02-23,Marche,,,
+2020-02-23,Campania,,,
+2020-02-23,Liguria,,,
+2020-02-23,Toscana,,,
+2020-02-23,Friuli V.G.,,,
+2020-02-23,Sicilia,,,
+2020-02-23,Puglia,,,
+2020-02-23,Umbria,,,
+2020-02-23,Abruzzo,,,
+2020-02-23,Trento,,,
+2020-02-23,Molise,,,
+2020-02-23,Sardegna,,,
+2020-02-23,Basilicata,,,
+2020-02-23,Calabria,,,
+2020-02-23,Valle d'Aosta,,,
+2020-02-23,Bolzano,,,
+2020-02-22,Lombardia,54.0,,
+2020-02-22,Veneto,17.0,,
+2020-02-22,Emilia Romagna,2.0,,
+2020-02-22,Lazio,2.0,,
+2020-02-22,Piemonte,1.0,,
+2020-02-22,Marche,,,
+2020-02-22,Campania,,,
+2020-02-22,Liguria,,,
+2020-02-22,Toscana,,,
+2020-02-22,Friuli V.G.,,,
+2020-02-22,Sicilia,,,
+2020-02-22,Puglia,,,
+2020-02-22,Umbria,,,
+2020-02-22,Abruzzo,,,
+2020-02-22,Trento,,,
+2020-02-22,Molise,,,
+2020-02-22,Sardegna,,,
+2020-02-22,Basilicata,,,
+2020-02-22,Calabria,,,
+2020-02-22,Valle d'Aosta,,,
+2020-02-22,Bolzano,,,
+2020-02-21,Lombardia,14.0,,
+2020-02-21,Lazio,3.0,,
+2020-02-21,Veneto,2.0,,
+2020-02-21,Emilia Romagna,,,
+2020-02-21,Piemonte,,,
+2020-02-21,Marche,,,
+2020-02-21,Campania,,,
+2020-02-21,Liguria,,,
+2020-02-21,Toscana,,,
+2020-02-21,Friuli V.G.,,,
+2020-02-21,Sicilia,,,
+2020-02-21,Puglia,,,
+2020-02-21,Umbria,,,
+2020-02-21,Abruzzo,,,
+2020-02-21,Trento,,,
+2020-02-21,Molise,,,
+2020-02-21,Sardegna,,,
+2020-02-21,Basilicata,,,
+2020-02-21,Calabria,,,
+2020-02-21,Valle d'Aosta,,,
+2020-02-21,Bolzano,,,
