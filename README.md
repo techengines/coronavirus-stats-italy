@@ -17,6 +17,13 @@ Coronavirus - 2019-nCoV stats datasets for Italy and China, labels in English
   * hubei_non_wuhan_cn.csv: Hubei Province (except Wuhan city) stats by date
   * others_non_hubei_cn.csv: Other Province (except Hubei province) stats by date
   
-
-
+## Prediction Exercises:
+* Time of the prediction 2020-03-12 
+  * 2020-03-13: 17380 <span style="color:orange">**(actual: 17660)**<span>
+  * 2020-03-14: 19987
+  * 2020-03-15: 26858
+* Time of the prediction 2020-03-13 
+  * 2020-03-14: 20309 (linear) - 20584 (log) 
+  * 2020-03-15: 23152 (linear) - 24038 (log) 
+  * 2020-03-16: 26162 (linear) - 27474 (log) 
 
