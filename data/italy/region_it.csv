@@ -18,7 +18,7 @@ date,region,positive,dead,cured
 2020-03-17,Valle d'Aosta ,134.0,2.0,
 2020-03-17,Sardegna ,115.0,2.0,
 2020-03-17,Calabria ,112.0,1.0,1.0
-2020-03-17,Basilicata ,20.0,20.0,
+2020-03-17,Basilicata ,20.0,,
 2020-03-17,Molise ,19.0,1.0,5.0
 2020-03-16,Lombardia ,10861.0,1420.0,2368.0
 2020-03-16,Emilia Romagna ,3088.0,346.0,88.0
