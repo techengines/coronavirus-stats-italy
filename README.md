@@ -31,27 +31,27 @@ Coronavirus - 2019-nCoV stats datasets for Italy and China, labels in English
   * 2020-03-16: 30357 (linear) - 28545 (log) 
   * 2020-03-17: 36035 (linear) - 32502 (log) 
 * Time of the prediction 2020-03-15 
-  * 2020-03-16: 28707 (linear) - 28562 (log) **(actual: 27980, error 2.1%% to 2,6%)**
+  * 2020-03-16: 28707 (linear) - 28562 (log) **(actual: 27980, error 2.1% to 2,6%)**
   * 2020-03-17: 33013 (linear) - 32527 (log) 
   * 2020-03-18: 37470 (linear) - 37509 (log) 
 * Time of the prediction 2020-03-16 
-  * 2020-03-17: 31338 (linear) - 31725 (log) **(actual: 31506, error -0.5%% to 0.7%)**
+  * 2020-03-17: 31338 (linear) - 31725 (log) **(actual: 31506, error -0.5% to 0.7%)**
   * 2020-03-18: 34785 (linear) - 36397 (log) 
   * 2020-03-19: 38264 (linear) - 41275 (log) 
 * Time of the prediction 2020-03-17
-  * 2020-03-18: 35129 (linear) - 36094 (log) **(actual: 35713, error -1.6%% to 1.1%)**
+  * 2020-03-18: 35129 (linear) - 36094 (log) **(actual: 35713, error -1.6% to 1.1%)**
   * 2020-03-19: 38642 (linear) - 40843 (log) 
   * 2020-03-20: 42120 (linear) - 45676 (log) 
 * Time of the prediction 2020-03-18
-  * 2020-03-19: 39999 (linear) - 40325 (log) **(actual: 41035, error -2.5%% to -1.7%)**
+  * 2020-03-19: 39999 (linear) - 40325 (log) **(actual: 41035, error -2.5% to -1.7%)**
   * 2020-03-20: 44399 (linear) - 44980 (log) 
   * 2020-03-21: 48839 (linear) - 49862 (log) 
 * Time of the prediction 2020-03-19
-  * 2020-03-20: 46164 (linear) - 45934 (log) **(actual: 47021, error -2.3%% to -1.8%)**
+  * 2020-03-20: 46164 (linear) - 45934 (log) **(actual: 47021, error -2.3% to -1.8%)**
   * 2020-03-21: 51242 (linear) - 51132 (log) 
   * 2020-03-22: 56622 (linear) - 56218 (log) 
 * Time of the prediction 2020-03-20
-  * 2020-03-21: 53369 (linear) - 52587 (log) **(actual: 53578, error -0.4%% to -1.9%)**
+  * 2020-03-21: 53369 (linear) - 52587 (log) **(actual: 53578, error -0.4% to -1.9%)**
   * 2020-03-22: 59773 (linear) - 58138 (log) 
   * 2020-03-23: 65750 (linear) - 63727 (log) 
 * Time of the prediction 2020-03-21
