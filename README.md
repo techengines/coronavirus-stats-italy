@@ -63,6 +63,10 @@ Coronavirus - 2019-nCoV stats datasets for Italy and China, labels in English
   * 2020-03-24: 72533 (linear) - 71351 (log) 
   * 2020-03-25: 79061 (linear) - 78088 (log) 
 * Time of the prediction 2020-03-23
-  * 2020-03-24: 68722 (linear) - 69898 (log) 
+  * 2020-03-24: 68722 (linear) - 69898 (log) **(actual: 69176, error -0.66% to 1.04%)**
   * 2020-03-25: 73533 (linear) - 76199 (log) 
   * 2020-03-26: 78313 (linear) - 82641 (log) 
+* Time of the prediction 2020-03-24
+  * 2020-03-25: 74018 (linear) - 75262 (log) 
+  * 2020-03-26: 78829 (linear) - 81434 (log) 
+  * 2020-03-27: 83559 (linear) - 87283 (log) 
