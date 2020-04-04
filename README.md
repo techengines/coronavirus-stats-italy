@@ -1,5 +1,6 @@
 # coronavirus-stats-italy
 Coronavirus - 2019-nCoV stats datasets for Italy and China, labels in English
+> Updated by 2020-03-31. The Italian situation has passed the worst point although world-widely many other countries are in an even more critical situtation. 
 
 ## Stats Italy 
 * Source: [Protezione civile](http://www.protezionecivile.gov.it/attivita-rischi/rischio-sanitario/emergenze/coronavirus)
@@ -91,6 +92,6 @@ Coronavirus - 2019-nCoV stats datasets for Italy and China, labels in English
   * 2020-03-31: 107189 (linear) - 105547 (log) 
   * 2020-04-01: 111477 (linear) - 108831 (log) 
 * Time of the prediction 2020-03-30
-  * 2020-03-31: 104791 (linear) - 105502 (log) 
+  * 2020-03-31: 104791 (linear) - 105502 (log) **(actual: 105792, error -0,95% to -0,27%)**
   * 2020-04-01: 107935 (linear) - 108776 (log) 
   * 2020-04-02: 111173 (linear) - 111513 (log) 
